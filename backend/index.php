@@ -8,7 +8,7 @@ $allowedOrigins = [
     'http://localhost:5500',
     'http://127.0.0.1:5500',
     'https://profile-managements.netlify.app',
-    'https://simpledetails.netlify.app',
+    'https://simple-sign-out.netlify.app',
 ];
 
 $allowedOriginsEnv = getenv('ALLOWED_ORIGINS');
